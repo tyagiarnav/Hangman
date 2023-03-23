@@ -13,6 +13,7 @@ from PIL import Image, ImageTk
 from tkVideoPlayer import TkinterVideo
 
 #new comment
+#another comment
 WindowWidth = 1200
 WindowHeight = 600
 FrameHeight = 500
